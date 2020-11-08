@@ -1,0 +1,6 @@
+  tasks:
+  - name: Install Visual Studio Code Markdown Extensions
+    shell: |
+      code --install-extension yzhang.markdown-all-in-one
+      code --install-extension bierner.markdown-mermaid
+      code --install-extension marp-team.marp-vscode
